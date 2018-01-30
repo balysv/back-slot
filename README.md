@@ -16,6 +16,8 @@ Liven up your slack channels by pretending to be the elephant emoji, Ronald McDo
 
 ## Usage
 
+Don't worry about your private Slack data, the script is stateless!
+
 ```
 // Post using an emoji (including custom ones) as an avatar and an arbitrary name
 python slack_post.py -c <channel> -m <message> -e <emoji> -n <name>
