@@ -12,7 +12,7 @@ Liven up your slack channels by pretending to be the elephant emoji, Ronald McDo
     - Store the api token in `config.py`, do not share it!
 - Install `python` and `pip` (any version)
 - Run `pip install -r ./requirements.txt`
-- Contemplate that this is to be used for harmless fun and not "impersonating" your CEO in #general and promising a company wide salary raise. Unless you are the CEO, then please go ahead.
+- Contemplate that this is to be used for harmless fun and not "impersonating" your CEO in #general and promising a company wide salary raise. Unless you are the CEO, then whatever ¯\_(ツ)_/¯
 
 ## Usage
 
