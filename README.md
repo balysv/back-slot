@@ -13,6 +13,7 @@ Liven up your slack channels by pretending to be the elephant emoji, Ronald McDo
 - Install `python` and `pip` (any version)
 - Run `pip install -r ./requirements.txt`
 - Contemplate that this is to be used for harmless fun and not "impersonating" your CEO in #general and promising a company wide salary raise. Unless you are the CEO, then whatever ¯\\_(ツ)_/¯
+- Yes, I deliberately made this setup more awkward than it should be because of the point above
 
 ## Usage
 
